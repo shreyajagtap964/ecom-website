@@ -1,1 +1,1 @@
-# ecom-website
+# ecommarce-website
